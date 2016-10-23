@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>1.4折叠菜单</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        ul{
+            list-style: none;
+        }
+        a{
+            text-decoration: none;
+        }
+        #menu{
+            width: 200px;
+        }
+        #menu h3{
+            background: black;
+            color: #eeeeee;
+            height: 50px;
+            line-height: 50px;/*字体垂直居中*/
+           cursor: pointer; /*鼠标到达区域变成小手*/
+        }
+        #menu .sub-menu{
+            display: none;
+           border: 1px solid #000; /*边框*/
+        }
+    </style>
+</head>
+<body>
+<ul id="menu">
+    <li class="main-menu">
+        <h3 onselectstart="return false;">管理区</h3>
+        <!--onselectstart="return false;"是把“管理区”上的选中框去掉-->
+        <ul class="sub-menu">
+            <li><a href="#">001</a></li>
+            <li><a href="#">002</a></li>
+            <li><a href="#">003</a></li>
+        </ul>
+    </li>
+    <li class="main-menu">
+        <h3 onselectstart="return false;">交流区</h3>
+        <!--onselectstart="return false;"是把“管理区”上的选中框去掉-->
+        <ul class="sub-menu">
+            <li><a href="#">001</a></li>
+            <li><a href="#">002</a></li>
+            <li><a href="#">003</a></li>
+        </ul>
+    </li>
+</ul>
+<script>
+    /* 方法一
+     var oMenu = document.getElementById("menu");
+     var aH3 = oMenu.getElementsByTagName("h3");
+     var aSubMenu = oMenu.getElementsByTagName("ul");
+     for(var i=0;i<aH3.length;i++){
+     aH3 [i].index=i;
+     aH3[i].bFlag = false;//标志位，false表示当前是合上的,true表示打开状态
+     aH3[i].onclick=function(){
+     if(this.bFlag){
+     aSubMenu[this.index].style.display = "none";
+     //①this.bFlag=false;
+     }
+     else{
+     aSubMenu[this.index].style.display = "block";
+     //②this.bFlag=true;
+     }
+     this.bFlag=!this.bFlag;//相当于①②的注释内容
+     };
+     }*/
+    /*方法二*/
+    var oMenu = document.getElementById("menu");
+    var aLi = oMenu.getElementsByTagName("li");
+    for(var i=0;i<aLi.length;i++){
+        if(aLi[i].className =="main-menu"){
+            aLi[i].bFlag  = false;
+            aLi[i].onclick = function(){
+                if(this.bFlag){
+                    this.getElementsByTagName("ul")[0].style.display = "none";
+                } else{
+                    this.getElementsByTagName("ul")[0].style.display = "block";
+                }
+                this.bFlag = !this.bFlag;
+            };
+        }
+    }
+</script>
+</body>
+</html>
