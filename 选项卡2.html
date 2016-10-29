@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>选项卡</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        ul{
+            list-style: none;
+        }
+        a{
+            text-decoration: none;
+        }
+
+        #menu{
+            height: 30px;
+        }
+        #menu li{
+            float: left;
+            height: 30px;
+            width: 100px;
+            margin-right: 5px;
+            background: gray;
+            text-align: center;
+        }
+        /*大的div框的设置*/
+        #content{
+            height: 200px;
+            width: 400px;
+            margin:50px auto;
+        }
+        /*小的div框的设置*/
+        #container{
+            width: 400px;
+            height: 170px;
+            background:gray;
+            border-top: 1px solid black;
+        }
+        /*使选中的框变黑，字体变白*/
+        #menu .select{
+            background: #000000;
+            height: 30px;
+            width: 100px;
+            color: #eeeeee;
+        }
+        #content div{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+<div id="content">
+    <ul id="menu">
+        <li class="select" >js</li>
+        <li>html</li>
+        <li>css</li>
+    </ul>
+    <div id="container">111111</div>
+    <div >222222222</div>
+    <div >333333333</div>
+</div>
+
+<script>
+    var oMenu = document.getElementById("menu");
+    var aLi = oMenu.getElementsByTagName("li");
+    var oContainer = document.getElementById("container");
+    var aDiv = oContainer.getElementsByTagName("div");
+
+    for (var i= 0;i<aLi.length;i++){
+        aLi[i].index=i;
+        aLi[i].onclick=function(){
+            for(i= 0;i<aLi.length;i++){
+                aLi[i].className = "";
+                aDiv[i].className="";
+           }
+            this.className = "select";
+            aDiv[this.index].className="select";
+        }
+        aLi[i].onselectstar = function(){
+            return false;
+        }
+    }
+</script>
+</body>
+</html>
