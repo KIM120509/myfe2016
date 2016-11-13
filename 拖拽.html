@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+        <meta charset="UTF-8">
+        <title>拖拽行为</title>
+        <style>
+            *{
+                margin: 0;.
+                padding: 0;
+            }
+            #div1{
+                width: 200px;
+                height: 200px;
+                background: red;
+                position: absolute;
+                left: 0;
+                top: 5px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="div1">div1</div>
+        <script>
+            var oDiv = document.getElementById("div1");
+            var iDisX = iDisY = 0;
+
+            oDiv.onmousedown = function(e){
+                e = e || window.event;//能力检测，解决兼容性问题
+                iDisX = e.clientX - oDiv.offsetLeft;//鼠标到div的左端距离=鼠标到document左端的距离-div到document左端的距离
+                iDisY = e.clientY - oDiv.offsetTop;
+
+                document.onmousemove = function(e){
+                    e = e || window.event;
+                    var iLeft = e.clientX - iDisX;
+                    var iTop = e.clientY - iDisY;
+
+                    //让整个DIV在HTML中移动，不超出
+                    if(iLeft <= 20){
+                        iLeft = 0;
+                    };
+                    if(iLeft >= document.documentElement.clientWidth - oDiv.offsetWidth){
+                        iLeft = document.documentElement.clientWidth - oDiv.offsetWidth;
+                    };
+                    if(iTop <= 20){
+                        iTop = 0;
+                    };
+                    if(iTop >= document.documentElement.clientHeight - oDiv.offsetHeight){
+                        iTop = document.documentElement.clientHeight - oDiv.offsetHeight;
+                    };
+
+                    oDiv.style.left = iLeft + "px";
+                    oDiv.style.top = iTop + "px";
+                    return false;//阻止默认行为，防止文字被选中
+                };
+                document.onmouseup = function(){
+                    document.onmousemove = null;
+                    document.onmouseup = null;
+                };
+
+
+            };
+        </script>
+    </body>
+</html>
