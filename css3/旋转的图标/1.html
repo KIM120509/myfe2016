@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>旋转的图标111</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        #container{
+            width: 50px;
+            height: 50px;
+            margin: 100px auto;
+            background: pink;
+            position: relative;
+        }
+        img{
+            cursor: pointer;;
+        }
+        #home{
+            width: 50px;
+            height: 50px;
+            position: absolute;
+            left: 151px;
+            top: 151px;
+        }
+        #icon img{
+            position: absolute;
+        }
+    </style>
+</head>
+<body>
+<div id="container">
+    <div id="home">
+        <img src="imgs/home.png" style="z-index: 6">
+    </div>
+    <div id="icon">
+        <img src="imgs/close.png" class="close">
+        <img src="imgs/full.png" class="full">
+        <img src="imgs/open.png" class="open">
+        <img src="imgs/prev.png" class="prev">
+        <img src="imgs/refresh.png" class="refresh">
+    </div>
+</div>
+<script>
+    var oHome = document.getElementById("home");
+    var bFlag = false;
+    var oIcon = document.getElementById("icon");
+    var oClose = oIcon.getElementsByClassName("close");
+    var oFull = oIcon.getElementsByClassName("full");
+    var oOpen = oIcon.getElementsByClassName("open");
+    var oPrev = oIcon.getElementsByClassName("prev");
+    var oRefresh = oIcon.getElementsByClassName("refresh");
+        oClose.style.left = 200-Math.sin(0)*200 + "px";
+        oClose.style.top = 200-Math.cos(0)*200 + "px";
+        oFull.style.left = 200-Math.sin(0.125)*200 + "px";
+        oFull.style.top = 200-Math.cos(0.125)*200 + "px";
+        oOpen.style.left = 200-Math.sin(0.25)*200 + "px";
+        oOpen.style.top = 200-Math.cos(0.25)*200 + "px";
+        oPrev.style.left = 200-Math.sin(0.375)*200 + "px";
+        oPrev.style.top = 200-Math.cos(0.375)*200 + "px";
+        oRefresh.style.left = 200-Math.sin(0.5)*200 + "px";
+        oRefresh.style.top = 200-Math.cos(0.5)*200 + "px";
+    oHome.onclick=function(){
+        if(bFlag){
+            this.style.transform = "rotate(0deg)";
+        }else{
+            this.style.transform = "rotate(-360deg)";
+        }
+    }
+</script>
+</body>
+</html>

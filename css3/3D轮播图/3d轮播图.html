@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+        <meta charset="UTF-8">
+        <title>3D轮播图</title>
+        <style>
+            #container{
+                width:800px;
+                height: 400px;
+                background: pink;
+                margin: 200px auto;
+                position: relative;
+            }
+            #imgs{
+                width: 600px;
+                height: 400px;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                margin-top: -200px;
+                margin-left:-300px;
+            }
+            #imgs img{
+                position: absolute;
+            }
+            #arrows span{
+                width: 50px;
+                height: 50px;
+                background: grey;
+                opacity: 0.5;
+                border-radius: 50%;
+                position: absolute;
+                top: 50%;
+                margin-top: -25px;
+                color:white;
+                font-size:60px;
+                font-weight: bold;
+                text-align: center;
+                line-height: 50px;
+                -webkit-text-stroke: 2px black;
+                box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
+            }
+            #prev{
+                left: 0;
+            }
+            #next{
+                right: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="container">
+            <div id="imgs">
+                <img src="imgs/1.jpg" alt="" style="z-index: 4">
+                <img src="imgs/2.jpg" alt="" style="z-index: 3">
+                <img src="imgs/3.jpg" alt="" style="z-index: 2">
+                <img src="imgs/4.jpg" alt="" style="z-index: 1">
+            </div>
+            <div id="arrows">
+                <span id="next">&gt;</span>
+                <span id="prev">&lt;</span>
+            </div>
+        </div>
+    </body>
+</html>

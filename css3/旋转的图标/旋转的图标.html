@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+        <meta charset="UTF-8">
+        <title>旋转的图标</title>
+        <style>
+            *{
+                margin: 0;
+                padding: 0;
+            }
+            #container{
+                width: 50px;
+                height: 50px;
+                position: relative;
+                margin: 300px auto;
+            }
+            #home{
+                width:50px;
+                height: 50px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="container">
+            <div id="home">
+                <img src="imgs/home.png" style="z-index: 6">
+            </div>
+            <div id="icon">
+                <img src="imgs/close.png" class="close">
+                <img src="imgs/full.png" class="full">
+                <img src="imgs/open.png" class="open">
+                <img src="imgs/prev.png" class="prev">
+                <img src="imgs/refresh.png" class="refresh">
+            </div>
+        </div>
+        <script>
+            var oHome = document.getElementById("home");
+
+        </script>
+    </body>
+</html>
