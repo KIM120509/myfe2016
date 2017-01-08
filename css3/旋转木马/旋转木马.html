@@ -1,10 +1,91 @@
 <!DOCTYPE html>
 <html>
-<head lang="en">
-    <meta charset="UTF-8">
-    <title></title>
-</head>
-<body>
-
-</body>
+    <head lang="en">
+        <meta charset="UTF-8">
+        <title>旋转木马</title>
+        <style>
+            *{
+                margin: 0;
+                padding: 0;
+            }
+            body{
+                perspective: 1000px;
+                perspective-origin: 50% -100%;
+            }
+            #container{
+                width: 125px;
+                height: 125px;
+                margin: 100px auto;
+                position: relative;
+                transform-style: preserve-3d;
+                transition: transform 1s linear;
+            }
+            .pic{
+                position: absolute;
+            }
+            .one{
+                transform: rotateY(180deg) translateZ(200px);
+                transform-style: preserve-3d;
+            }
+            .two{
+                transform: rotateY(140deg) translateZ(200px);
+                transform-style: preserve-3d;
+            }
+            .three{
+                transform: rotateY(100deg) translateZ(200px);
+                transform-style: preserve-3d;
+            }
+            .four{
+                transform: rotateY(60deg) translateZ(200px);
+                transform-style: preserve-3d;
+            }
+            .five{
+                transform: rotateY(20deg) translateZ(200px);
+                transform-style: preserve-3d;
+            }
+            .six{
+                transform: rotateY(-20deg) translateZ(200px);
+                transform-style: preserve-3d;
+            }
+            .seven{
+                transform: rotateY(-60deg) translateZ(200px);
+                transform-style: preserve-3d;
+            }
+            .eight{
+                transform: rotateY(-100deg) translateZ(200px);
+                transform-style: preserve-3d;
+            }
+            .nine{
+                transform: rotateY(-140deg) translateZ(200px);
+            }
+        </style>
+    </head>
+    <body>
+        <div id="container">
+            <img src="img/1.jpg" alt="" class="pic one">
+            <img src="img/2.jpg" alt="" class="pic two">
+            <img src="img/3.jpg" alt="" class="pic three">
+            <img src="img/4.jpg" alt="" class="pic four">
+            <img src="img/5.jpg" alt="" class="pic five">
+            <img src="img/6.jpg" alt="" class="pic six">
+            <img src="img/7.jpg" alt="" class="pic seven">
+            <img src="img/8.jpg" alt="" class="pic eight">
+            <img src="img/9.jpg" alt="" class="pic nine">
+        </div>
+        <script>
+            var oContainer = document.getElementById("container");
+            var aImg = oContainer.getElementsByTagName("img");
+            setTimeout(function(){
+                for(var i=0;i<aImg.length;i++){
+                    aImg[i].style.transitionDelay = i * 100 + "ms";
+                    aImg[i].style.transform = "rotateY("+ 40 *i +"deg) translateZ(200px)";
+                }
+            },2000);
+            var num = 1;
+            oContainer.onclick = function(){
+                this.style.transform = "rotateY("+ 40*num +"deg)";
+                num++;
+            }
+        </script>
+    </body>
 </html>
