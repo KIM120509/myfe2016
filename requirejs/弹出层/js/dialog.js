@@ -5,7 +5,7 @@ require.config({
 });
 define(["jquery"],function($){
     function Dialog(){
-        this.defaultSettings={
+        this.defaultSettings={//默认值
             width:400,
             height:300,
             title:"弹出层",
@@ -19,8 +19,10 @@ define(["jquery"],function($){
         this.close=$('<div class="dialog-title-close">[X]</div>'),
         this.content=$('<div class="dialog-content"></div>')
     }
-    Dialog.prototype.open = function(options){
+    Dialog.prototype.open = function(options){//options是对应index.js中实参settings的形参
+        //装载弹出层的HTML
         $.extend(this.defaultSettings, options);//将默认的this.defaultSettings的值与传过来的options新设置的值合并
+        //extend(obj1,obj2)是指将obj2中的值合并到obj1中：1有2没有的保留，2有1没有的添加，都有的以2的为准
         this.item.html(this.defaultSettings.title);
         this.content.css({
             height:this.defaultSettings.height-30

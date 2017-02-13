@@ -7,7 +7,7 @@ require.config({
 });
 require(["jquery","dialog"],function($,Dialog){
     $("#open").on("click",function(){
-        var settings={
+        var settings={//新传入的值
             width:500,
             height:400,
             title:"我的弹出层",
@@ -15,6 +15,6 @@ require(["jquery","dialog"],function($,Dialog){
 
         }
     var dialog=new Dialog;
-        dialog.open(settings);
+        dialog.open(settings);//settings是实参
     });
 });
