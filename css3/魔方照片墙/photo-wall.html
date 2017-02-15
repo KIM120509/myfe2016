@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>魔方照片墙</title>
+    <style>            *{
+        margin: 0;
+        padding: 0;
+    }
+    html{
+        width: 100%;
+        height: 100%;
+    }
+    body{
+        width: 100%;
+        height: 100%;
+        background: url("img/bg.jpg");
+    }
+    #container .img{
+        width: 125px;
+        height: 125px;
+        border: 5px solid white;
+        box-shadow: 2px 2px 2px rgba(0, 0, 0, .5);
+        position: absolute;
+        top: -500px;
+        left: -500px;
+        transition: all 1s ease-in-out;
+        cursor: pointer;
+    }
+    </style>
+</head>
+<body>
+<div id="container">
+</div>
+<span id="prev"></span>
+<span id="next"></span>
+<script>
+    (function(){
+        var oContainer = document.getElementById("container");
+        var timer;//定时器设置为全局变量
+//图片预处理
+        var ROW = 4,
+                COL = 6,
+                NUM = ROW * COL,
+                count = 0;//用来计数，当等于48时表示所有图片已经加载完成
+        for(var i = 0;i < NUM;i++){
+            //小图片
+            var oThumbImg = new  Image();
+            oThumbImg.onload = function(){
+                count++;
+                if(count == NUM * 2){
+                    loadSuccess();//图片加载成功执行的函数
+                }
+            };
+            oThumbImg.src = "img/thumbs/"+(i + 1)+".jpg";
+            //大图片
+            var oBigImg = new  Image();
+            oBigImg.onload = function(){
+                count++;
+                if(count == NUM * 2){
+                    loadSuccess();//图片加载成功执行的函数
+                }
+            };
+            oBigImg.src = "img/"+(i + 1)+".jpg";
+        }
+//图片加载成功执行的函数
+        function loadSuccess(){
+            var index = 0;
+            for(var i = 0;i < ROW;i++){
+                for(var j = 0;j < COL;j++){
+                    index++;
+                    var oDiv = document.createElement("div");//创建div
+                    oDiv.style.backgroundImage = "url(img/thumbs/"+index+".jpg";//为每个div加上背景图片，即小图片
+                    oDiv.className = "img";
+                    oDiv.innerHTML = "<span></span>";
+                    oDiv.index = index;
+                    oDiv.pos = {
+                        row: i,
+                        col: j
+                    };
+                    oContainer.appendChild(oDiv);
+                }
+            }
+//计算每个空格的距离即行间距与列间距
+            var aDiv = oContainer.getElementsByTagName("div");
+            var bodyWidth = document.body.clientWidth;//body的宽
+            var bodyHeight = document.body.clientHeight;//body的高
+            var oDivWidth = aDiv[0].offsetWidth;
+            var oDivHeight = aDiv[0].offsetHeight;
+            var iColGap = (bodyWidth - oDivWidth * COL) / (COL + 1);//列空间距
+            var iRowGap = (bodyHeight - oDivHeight * ROW) / (ROW + 1);//列空间距
+//利用计时器使每个div飞入相应的位置
+            var timerCount = NUM;//timerCount从最后以后往0变，使图片由最后一个先飞入
+            timer = setInterval(function(){//使用setInterval是因为计时器要使用24次
+                timerCount--;
+                aDiv[timerCount].style.left = (iColGap + oDivWidth) * aDiv[timerCount].pos.col + iColGap + "px";
+                //左边距=（div本身的宽度+div右侧空间距）
+                aDiv[timerCount].style.top = (iRowGap + oDivHeight) * aDiv[timerCount].pos.row + iRowGap + "px";
+                aDiv[timerCount].style.transform = "rotate(" + (Math.random() * 40 - 20) + "deg)";
+                if(timerCount == 0){
+                    clearInterval(timer);
+                }
+            }, 100);
+//给每个div绑定单击事件
+            var flage = false;//标志位，false表示要合并，true表示要散开
+            //事件捕获，判断单击的是否为div
+            oContainer.onclick = function(e){
+                clearInterval(timer);
+                var target = e.target || window.event.srcElement;
+                if(target.className != "img"){
+                    target = target.parentNode;
+                }
+            }
+//散开与合并的变换
+            if(flage){//要散开
+
+            }else{//要合并
+                for(var i = 0;i<NUM;i++){
+
+                }
+            }
+
+        }
+    })();
+</script>
+</body>
+</html>
