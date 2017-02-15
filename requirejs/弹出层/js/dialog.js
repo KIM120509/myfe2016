@@ -26,7 +26,10 @@ define(["jquery"],function($){
         this.item.html(this.defaultSettings.title);
         this.content.css({
             height:this.defaultSettings.height-30
-        }).load(this.defaultSettings.content);
+        });
+        if(this.defaultSettings.content){
+            this.content.load(this.defaultSettings.content);
+        }
         this.title.append(this.item).append(this.close);
         this.box.append(this.title).append(this.content).css({
             width:this.defaultSettings.width,
