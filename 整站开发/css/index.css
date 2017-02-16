@@ -1,0 +1,29 @@
+#banner{
+    height: 460px;
+    background: url("../img/banner-bgd.png") repeat-x;
+}
+#banner .wrapper{
+    width: 1002px;
+    height: 460px;
+    position: relative;
+}
+#banner .wrapper .arrow {
+    width: 30px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+    margin-top: -25px;
+    background-image: url("../img/sprite.png");
+    background-repeat: no-repeat;
+}
+#banner .prev{
+    background-position: 0 -14px;
+    left: 0;
+}
+#banner .next{
+    background-position: -29px -14px;
+    right: 0;
+}
+#banner .img{
+
+}

@@ -7,6 +7,9 @@ require(["carousel"],function(Carousel){
         arrowPos:"bottom",//center表示在中间
         speed:500
     };
+
+    var carousel1=new Carousel();
+    carousel1.init(setting1);
     var imgArray2=["img/1.jpg","img/2.jpg","img/3.jpg","img/4.jpg","img/5.jpg"];
     var setting2={
         selector:"#container2",
@@ -16,8 +19,7 @@ require(["carousel"],function(Carousel){
         speed:1000
     };
 
-    var carousel1=new Carousel();
-    carousel1.init(setting1);
+
     var carousel2=new Carousel();
     carousel2.init(setting2);
 });

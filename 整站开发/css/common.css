@@ -1,0 +1,84 @@
+/*样式重置开始*/
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    border: 0;
+}
+/*样式重置结束*/
+/*nav样式开始*/
+.wrapper{
+    width: 1002px;
+    margin: 0 auto;
+
+}
+#nav{
+    height: 120px;
+
+}
+#nav .wrapper{
+    height: 120px;
+    /*background: grey;*/
+    position: relative;
+}
+#logo{
+    margin-top: 37px;
+}
+#menu{
+    position: absolute;
+    top: 49px;
+    left: 300px;
+}
+#menu li{
+    float: left;
+    height: 22px;
+}
+#menu a{
+    font-size: 15px;
+    color: #626262;
+}
+#menu a:hover{
+    color: #22b9ff;
+}
+#menu span{
+    width: 1px;
+    height: 14px;
+    float: right;
+    margin:4px 25px 0 25px;
+    background: url("../img/sprite.png") no-repeat 0 0;
+}
+#search{
+    width: 130px;
+    height: 30px;
+    float: right;
+    top: 45px;
+    position: relative;
+}
+#search-ipt{
+    position: absolute;
+    width: 130px;
+    height: 30px;
+    outline: none;/*去掉默认行为*/
+    border: 0;
+    text-indent: 5px; /*使字不会靠边开始*/
+    background: #f1f3f6;
+}
+#search span{
+    background: url("../img/sprite.png") no-repeat -1px 0;
+    position: absolute;
+    width: 10px;
+    height: 12px;
+    top: 50%;
+    margin-top: -6px;
+    right: 5px;
+    cursor: pointer;
+}
+
+/*nav样式结束*/

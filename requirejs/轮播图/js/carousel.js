@@ -32,6 +32,60 @@ define(["jquery"],function($){
         }
         $("img", this.img).eq(0).addClass("selected");
         $("li", this.tab).eq(0).addClass("selected");
+        this.arrow.addClass(this.defaultSettings.arrowPos);
+
+    //    变换、、、、///////////////////////////////////////////////
+
+        var nowIdx = 0;
+        var that = this;
+        this.tab.on("mouseover", "li", function(){
+            nowIdx = $(this).index();
+            changeImg();
+        });
+        this.prev.on("click", function(){
+            nowIdx--;
+            if(nowIdx == -1){
+                nowIdx = that.defaultSettings.img.length - 1;
+            }
+            changeImg();
+        });
+        this.next.on("click", function(){
+            nowIdx++;
+            if(nowIdx == that.defaultSettings.img.length){
+                nowIdx = 0;
+            }
+            changeImg();
+        });
+        this.container.hover(function(){
+            clearInterval(that.timer);
+        }, function(){
+            play();
+        });
+        play();
+
+        function play(){
+            that.timer = setInterval(function(){
+                that.next.trigger("click");
+            }, that.defaultSettings.speed);
+        }
+
+        function changeImg(){//私有方法
+            $("li", that.tab).eq(nowIdx).addClass("selected").siblings().removeClass("selected");
+            $("img", that.img).eq(nowIdx).addClass("selected").siblings().removeClass("selected");
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
     return Carousel;
 });
