@@ -82,3 +82,96 @@ img{
 }
 
 /*nav样式结束*/
+/*footer开始*/
+#footer{
+    height: 176px;
+    background: url("../img/footer-bgd.png") repeat-x;
+}
+#footer .wrapper{
+    height: 100%;
+    position: relative;
+}
+#footer .wrapper .font{
+    position: absolute;
+    width: 800px;
+
+}
+#footer-menu{
+    width: 100%;
+    height:18px;
+    position: absolute;
+    top: 45px;
+    left: 0;
+}
+#footer-menu li{
+    float: left;
+    height: 22px;
+}
+#footer-menu a{
+    font-size: 15px;
+    color: #e2e7ed;
+}
+#footer-menu a:hover{
+    color: #22b9ff;
+}
+#footer-menu span{
+    width: 1px;
+    height: 14px;
+    float: right;
+    margin:4px 25px 0 25px;
+    background: url("../img/sprite.png") no-repeat 0 0;
+}
+#footer .wrapper .font .note1{
+    position: absolute;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    top:63px;
+    left: 0;
+}
+#footer .wrapper .font .note2{
+    position: absolute;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    top: 120px;
+    left: 0;
+}
+#footer .wrapper .icon{
+    width: 280px;
+    height: 37px;
+    position: absolute;
+    right: 0;
+    top: 45px;
+}
+#footer .wrapper .icon .icon-box{
+    width: 100%;
+    height: 100%;
+}
+#footer .wrapper .icon .icon-box li{
+    float: left;
+    width: 36px;
+    height: 36px;
+    margin-right: 10px;
+    cursor: pointer;
+    /*background: red;*/
+}
+#footer .wrapper .icon .icon-box li.icon1{
+    background: url("../img/footer-icon.png") no-repeat 0 0;
+}
+#footer .wrapper .icon .icon-box li.icon2{
+    background: url("../img/footer-icon.png") no-repeat -37px 0;
+}
+#footer .wrapper .icon .icon-box li.icon3{
+    background: url("../img/footer-icon.png") no-repeat -74px 0;
+}
+#footer .wrapper .icon .icon-box li.icon4{
+    background: url("../img/footer-icon.png") no-repeat 0 -37px;
+}
+#footer .wrapper .icon .icon-box li.icon5{
+    background: url("../img/footer-icon.png") no-repeat -37px -37px;
+}
+#footer .wrapper .icon .icon-box li.icon6{
+    background: url("../img/footer-icon.png") no-repeat -74px -37px;
+}
+/*footer结束*/
