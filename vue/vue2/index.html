@@ -25,18 +25,19 @@
             </tr>
         </thead>
         <tbody>
-            <tr v-for="product in productList">
+            <tr v-for="product in productList"><!-- productList与data中的是一致的-->
                 <td><input type="checkbox"/></td>
                 <td><img :src="product.productImg" alt="" width="100"/></td>
-                <td>{{product.productName}}</td>
+                <!-- 若给HTML的本身带有的属性需要用 "v-bind:" 简写为 ":"  -->
+                <td v-text="product.productName"></td>
                 <td></td>
-                <td>{{product.productPrice}}</td>
+                <td v-text="product.productPrice"></td>
                 <td>
                     <button>-</button>
                     <input type="text" :value="product.productQuentity"/>
                     <button>+</button>
                 </td>
-                <td>{{product.productPrice *product.productQuentity}}</td>
+                <td v-text="product.productPrice *product.productQuentity"></td>
                 <td>
                     <a href="#">删除</a>
                 </td>
@@ -58,16 +59,18 @@
     <script src="node_modules/axios/dist/axios.min.js"></script>
     <script>
         var  vm = new  Vue({
-            el:'#tbl',
-            data:{
+            el:'#tbl',//选中dom中的某个元素，作用范围
+            data:{//data数据模型   定义数据：{{}}中出现的数据   以及   view的数据模型
                 productList:[]
             },
-            compute:{},
-            methods:{},
-            mounted: function(){
-                var that=this;
-                axios.get('cart.json').then(function(res){
-                    that.productList=res.data.result.productList;
+            compute:{},//计算
+            methods:{},//交互，业务逻辑方法
+            mounted: function(){//文档就绪函数，保证el中的dom结构加载完毕
+                var that=this;//this 指的是new出来的vm
+                this.$nextTick(function(){
+                    axios.get('cart.json').then(function(res){
+                        that.productList=res.data.result.productList;//拿到json中的数组
+                    });
                 });
             }
         });
