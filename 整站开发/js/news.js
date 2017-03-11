@@ -19,7 +19,7 @@ define (["jquery"],function($){
         //this.wrapper.append(this.new);
         this.new.append(this.title).append(this.icon).append(this.readMore).append(this.content);
         this.title.html(this.defaultSettings.title);
-        var $iconImg=$("<img src='"+this.defaultSettings.icon+"'>");
+        var $iconImg=$("<website-img src='"+this.defaultSettings.icon+"'>");
         this.icon.append($iconImg);
         this.content.html(this.defaultSettings.content);
     }

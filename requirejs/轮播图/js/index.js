@@ -1,5 +1,5 @@
 require(["carousel"],function(Carousel){
-    var imgArray1=["img/bg1.jpg","img/2.jpg","img/3.jpg","img/4.jpg","img/5.jpg"];
+    var imgArray1=["img/1.jpg","img/2.jpg","img/3.jpg","img/4.jpg","img/5.jpg"];
     var setting1={
         selector:"#container1",
         img:imgArray1,
@@ -10,7 +10,7 @@ require(["carousel"],function(Carousel){
 
     var carousel1=new Carousel();
     carousel1.init(setting1);
-    var imgArray2=["img/bg1.jpg","img/2.jpg","img/3.jpg","img/4.jpg","img/5.jpg"];
+    var imgArray2=["img/1.jpg","img/2.jpg","img/3.jpg","img/4.jpg","img/5.jpg"];
     var setting2={
         selector:"#container2",
         img:imgArray2,

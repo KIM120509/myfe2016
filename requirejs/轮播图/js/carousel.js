@@ -73,19 +73,6 @@ define(["jquery"],function($){
             $("li", that.tab).eq(nowIdx).addClass("selected").siblings().removeClass("selected");
             $("img", that.img).eq(nowIdx).addClass("selected").siblings().removeClass("selected");
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
     return Carousel;
 });

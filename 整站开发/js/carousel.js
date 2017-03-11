@@ -11,7 +11,7 @@ define(["jquery"],function($){
         }
         this.container=$('<div class="carousel-container"></div>');
         this.tab=$('<ul class="carousel-tab"></ul>');
-        this.img=$('<div class="carousel-img"></div>');
+        this.img=$('<div class="carousel-website-img"></div>');
         this.arrow=$('<div class="carousel-arrow"></div>');
         this.prev=$('<span class="arrow prev"></span>');
         this.next=$('<span class="arrow next"></span>');
@@ -25,7 +25,7 @@ define(["jquery"],function($){
         });
         this.arrow.append(this.prev).append(this.next);
         for(var i = 0;i < this.defaultSettings.img.length;i++){
-            var $img=$("<img src='"+this.defaultSettings.img[i]+"'>");
+            var $img=$("<website-img src='"+this.defaultSettings.img[i]+"'>");
             this.img.append($img);
             var $li=$("<li></li>");
             if(this.defaultSettings.buttonStyle=="square"){
