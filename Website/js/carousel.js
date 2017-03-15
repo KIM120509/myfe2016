@@ -2,27 +2,22 @@ define(["jquery"],function($){
     function Carousel(){
         this.defaultSettings={
             selector:"body",
-            width: 750,
-            height: 500,
             img:[],
-            buttonStyle:"circle",//squareï¿½ï¿½Ê¾ï¿½ï¿½ï¿½ï¿½
-            arrowPos:"bottom",//centerï¿½ï¿½Ê¾ï¿½ï¿½ï¿½Ð¼ï¿½
+            buttonStyle:"circle",//square±íÊ¾·½ÐÎ
+            arrowPos:"bottom",//center±íÊ¾ÔÚÖÐ¼ä
             speed:500
         }
         this.container=$('<div class="carousel-container"></div>');
         this.tab=$('<ul class="carousel-tab"></ul>');
         this.img=$('<div class="carousel-img"></div>');
         this.arrow=$('<div class="carousel-arrow"></div>');
-        this.prev=$('<span class="arrow prev"></span>');
-        this.next=$('<span class="arrow next"></span>');
+        this.prev=$('<span id="prev">&lt;</span>');
+        this.next=$('<span id="next">&gt;</span>');
     }
     Carousel.prototype.init = function(options){
         $.extend(this.defaultSettings, options);
         $(this.defaultSettings.selector).append(this.container);
-        this.container.append(this.tab).append(this.img).append(this.arrow).css({
-            width:this.defaultSettings.width ,
-            height:this.defaultSettings.height
-        });
+        this.container.append(this.tab).append(this.img).append(this.arrow);
         this.arrow.append(this.prev).append(this.next);
         for(var i = 0;i < this.defaultSettings.img.length;i++){
             var $img=$("<img src='"+this.defaultSettings.img[i]+"'>");
@@ -39,7 +34,7 @@ define(["jquery"],function($){
         $("li", this.tab).eq(0).addClass("selected");
         this.arrow.addClass(this.defaultSettings.arrowPos);
 
-    //    ï¿½ä»»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½///////////////////////////////////////////////
+    //    ±ä»»¡¢¡¢¡¢¡¢///////////////////////////////////////////////
 
         var nowIdx = 0;
         var that = this;
@@ -74,11 +69,10 @@ define(["jquery"],function($){
             }, that.defaultSettings.speed);
         }
 
-        function changeImg(){//Ë½ï¿½Ð·ï¿½ï¿½ï¿½
+        function changeImg(){//Ë½ÓÐ·½·¨
             $("li", that.tab).eq(nowIdx).addClass("selected").siblings().removeClass("selected");
             $("img", that.img).eq(nowIdx).addClass("selected").siblings().removeClass("selected");
         }
-
     }
     return Carousel;
 });

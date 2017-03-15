@@ -2,408 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef56b84a-4dd3-46ec-aebb-1d436d90b0ad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/简历/img/1cun.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/简历/img/2cun.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/个人网站/Personal Website/website-img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/个人网站/模板/墨绿/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/个人网站/模板/墨绿/img/bgcontainer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/个人网站/模板/墨绿/img/bgcontent.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/个人网站/模板/墨绿/img/bgfooter.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/个人网站/模板/墨绿/img/divider.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/个人网站/模板/墨绿/img/gfx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/个人网站/模板/墨绿/img/header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/interview.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/个人网站/模板/墨绿/img/map.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/个人网站/模板/墨绿/img/pattern.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/个人网站/模板/墨绿/img/quote.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/个人网站/模板/墨绿/img/stripes.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/10_事件相关2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/11_事件相关3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/12_样式相关.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/13_样式相关2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/14_ajax.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/15_跨域.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/16_闭包.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/17_html5新特性.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/1_html语义化.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/2_行元素和块元素.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/3_localStorage和sessionStorage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/4_css_hack.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/5_css权重.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/6_transform.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/7_弹性盒模型.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/8_css盒模型.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/9_事件相关.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/css/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/js/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/个人网站/Personal Website/website-css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/js/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/server.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/事件冒泡.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/事件冒泡2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.7面试总结/事件冒泡3.html" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\css\reset.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancy_close.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancy_loading.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancy_nav_left.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancy_nav_right.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancy_shadow_e.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancy_shadow_n.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancy_shadow_ne.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancy_shadow_nw.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancy_shadow_s.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancy_shadow_se.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancy_shadow_sw.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancy_shadow_w.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancy_title_left.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancy_title_main.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancy_title_over.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancy_title_right.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancybox-x.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancybox-y.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\fancybox.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\jquery.easing-1.3.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\jquery.fancybox-1.3.4.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\jquery.fancybox-1.3.4.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\jquery.fancybox-1.3.4.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fancybox\jquery.mousewheel-3.0.4.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fonts\LANENAR_-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fonts\LANENAR_-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fonts\LANENAR_-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fonts\LANENAR_-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fonts\League_Gothic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fonts\League_Gothic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fonts\League_Gothic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\fonts\League_Gothic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\ImagesByGeishaboy500.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\a_portfolio_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\bar_graph.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\border_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\button.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\client_image_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\dot.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\dot2.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\icon_dribble.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\icon_facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\icon_forrst.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\icon_lastfm.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\icon_location.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\icon_magnify.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\icon_twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\input_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\line_border.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\me.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\nav_active.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\nav_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\next.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\prev.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\pricing_table_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\quote.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\ribbon.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\slider_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\thumbs\1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\thumbs\2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\thumbs\3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\thumbs\4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\thumbs\5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\triangle.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\work_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\work_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\images\work_img.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\js\jquery-1.4.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\js\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\js\jquery_002.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\js\jquery_003.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\js\smoothscroll.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\s.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\说明.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\model\说明read me.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\找网站模板就上【模板之家】cssMoban.com.url" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\说明.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\the-hobbit\readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\简历\img\1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\12万\fe2016\myfe2016\简历\img\2.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/整站开发/1.html" afterPath="$PROJECT_DIR$/整站开发/1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirejs/轮播图/js/carousel.js" afterPath="$PROJECT_DIR$/requirejs/轮播图/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/img/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/img/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/img/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/img/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/img/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/React课件.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/basic-commonjs/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/basic-commonjs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/jquery-mobile/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/jquery-bootstrap/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/jquery-mobile/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/shared/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/browser.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Website/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/jquery-bootstrap/css/example.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/basic-jsx-external/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/basic-jsx-precompile/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/quadratic/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/basic/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/basic-click-counter/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/basic-commonjs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/basic-jsx/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/basic-jsx-external/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/basic-jsx-harmony/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/basic-jsx-precompile/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/fiber/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/jquery-bootstrap/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/jquery-mobile/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/quadratic/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/transitions/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/webcomponents/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/basic-commonjs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/basic-commonjs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/build/react-dom-server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/build/react-dom-server.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/build/react-dom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/build/react-dom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/build/react-with-addons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/build/react-with-addons.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/build/react.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/build/react.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react/react-15.3.1/examples/transitions/transition.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/整站开发/js/carousel.js" afterPath="$PROJECT_DIR$/整站开发/js/carousel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/整站开发/js/clients.js" afterPath="$PROJECT_DIR$/整站开发/js/clients.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/移动端Web开发/星巴克官网/首页 _ 星巴克_files/home.min.js" afterPath="$PROJECT_DIR$/移动端Web开发/星巴克官网/首页 _ 星巴克_files/home.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/简历/css/index.css" afterPath="$PROJECT_DIR$/简历/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Website/css/common.css" afterPath="$PROJECT_DIR$/Website/css/common.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Website/css/index.css" afterPath="$PROJECT_DIR$/Website/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Website/index.html" afterPath="$PROJECT_DIR$/Website/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirejs/轮播图/index.html" afterPath="$PROJECT_DIR$/requirejs/轮播图/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/整站开发/index.html" afterPath="$PROJECT_DIR$/整站开发/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/简历/index.html" afterPath="$PROJECT_DIR$/简历/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirejs/轮播图/js/index.js" afterPath="$PROJECT_DIR$/requirejs/轮播图/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Website/js/index.js" afterPath="$PROJECT_DIR$/Website/js/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/整站开发/js/index.js" afterPath="$PROJECT_DIR$/整站开发/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/整站开发/js/news.js" afterPath="$PROJECT_DIR$/整站开发/js/news.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/移动端Web开发/星巴克官网/首页 _ 星巴克_files/scripts.min.js" afterPath="$PROJECT_DIR$/移动端Web开发/星巴克官网/首页 _ 星巴克_files/scripts.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/vue/vue.min.js" afterPath="$PROJECT_DIR$/vue/vue/vue.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/vue2/vue.min.js" afterPath="$PROJECT_DIR$/vue/vue2/vue.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/vue22/vue.min.js" afterPath="$PROJECT_DIR$/vue/vue22/vue.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/整站开发/js/works.js" afterPath="$PROJECT_DIR$/整站开发/js/works.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\first\index.html" afterPath="$PROJECT_DIR$/Website/index.html" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\second\index.html" afterPath="$PROJECT_DIR$/个人网站/Personal Website/index.html" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\big.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/big.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\css\reset.css" afterPath="$PROJECT_DIR$/个人网站/模板/简单/css/reset.css" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\css\style.css" afterPath="$PROJECT_DIR$/个人网站/模板/简单/css/style.css" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\blank.gif" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/blank.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancy_close.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancy_close.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancy_loading.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancy_loading.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancy_nav_left.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancy_nav_left.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancy_nav_right.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancy_nav_right.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancy_shadow_e.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancy_shadow_e.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancy_shadow_n.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancy_shadow_n.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancy_shadow_ne.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancy_shadow_ne.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancy_shadow_nw.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancy_shadow_nw.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancy_shadow_s.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancy_shadow_s.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancy_shadow_se.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancy_shadow_se.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancy_shadow_sw.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancy_shadow_sw.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancy_shadow_w.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancy_shadow_w.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancy_title_left.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancy_title_left.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancy_title_main.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancy_title_main.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancy_title_over.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancy_title_over.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancy_title_right.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancy_title_right.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancybox-x.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancybox-x.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancybox-y.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancybox-y.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\fancybox.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/fancybox.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\jquery.easing-1.3.pack.js" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/jquery.easing-1.3.pack.js" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\jquery.fancybox-1.3.4.css" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/jquery.fancybox-1.3.4.css" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\jquery.fancybox-1.3.4.js" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/jquery.fancybox-1.3.4.js" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\jquery.fancybox-1.3.4.pack.js" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/jquery.fancybox-1.3.4.pack.js" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fancybox\jquery.mousewheel-3.0.4.pack.js" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fancybox/jquery.mousewheel-3.0.4.pack.js" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fonts\LANENAR_-webfont.eot" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fonts/LANENAR_-webfont.eot" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fonts\LANENAR_-webfont.svg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fonts/LANENAR_-webfont.svg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fonts\LANENAR_-webfont.ttf" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fonts/LANENAR_-webfont.ttf" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fonts\LANENAR_-webfont.woff" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fonts/LANENAR_-webfont.woff" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fonts\League_Gothic-webfont.eot" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fonts/League_Gothic-webfont.eot" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fonts\League_Gothic-webfont.svg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fonts/League_Gothic-webfont.svg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fonts\League_Gothic-webfont.ttf" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fonts/League_Gothic-webfont.ttf" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\fonts\League_Gothic-webfont.woff" afterPath="$PROJECT_DIR$/个人网站/模板/简单/fonts/League_Gothic-webfont.woff" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\1.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/1.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\2.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/2.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\3.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/3.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\4.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/4.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\5.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/5.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\ImagesByGeishaboy500.txt" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/ImagesByGeishaboy500.txt" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\a_portfolio_bg.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/a_portfolio_bg.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\bar_graph.gif" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/bar_graph.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\bg.gif" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/bg.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\border_bg.gif" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/border_bg.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\button.gif" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/button.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\client_image_1.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/client_image_1.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\dot.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/dot.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\dot2.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/dot2.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\icon_dribble.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/icon_dribble.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\icon_facebook.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/icon_facebook.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\icon_forrst.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/icon_forrst.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\icon_lastfm.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/icon_lastfm.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\icon_location.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/icon_location.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\icon_magnify.gif" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/icon_magnify.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\icon_twitter.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/icon_twitter.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\input_bg.gif" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/input_bg.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\line_border.gif" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/line_border.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\loader.gif" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/loader.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\me.gif" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/me.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\nav_active.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/nav_active.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\nav_bg.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/nav_bg.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\next.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/next.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\prev.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/prev.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\pricing_table_3.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/pricing_table_3.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\quote.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/quote.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\ribbon.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/ribbon.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\slider_bg.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/slider_bg.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\thumbs\1.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/thumbs/1.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\thumbs\2.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/thumbs/2.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\thumbs\3.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/thumbs/3.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\thumbs\4.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/thumbs/4.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\thumbs\5.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/thumbs/5.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\triangle.png" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/triangle.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\work_1.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/work_1.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\work_2.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/work_2.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\images\work_img.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/images/work_img.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\index.html" afterPath="$PROJECT_DIR$/个人网站/模板/简单/index.html" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\js\jquery-1.4.3.min.js" afterPath="$PROJECT_DIR$/个人网站/模板/简单/js/jquery-1.4.3.min.js" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\js\jquery.js" afterPath="$PROJECT_DIR$/个人网站/模板/简单/js/jquery.js" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\js\jquery_002.js" afterPath="$PROJECT_DIR$/个人网站/模板/简单/js/jquery_002.js" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\js\jquery_003.js" afterPath="$PROJECT_DIR$/个人网站/模板/简单/js/jquery_003.js" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\js\smoothscroll.js" afterPath="$PROJECT_DIR$/个人网站/模板/简单/js/smoothscroll.js" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\s.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/简单/s.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\说明.txt" afterPath="$PROJECT_DIR$/个人网站/模板/简单/说明.txt" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_23\说明read me.txt" afterPath="$PROJECT_DIR$/个人网站/模板/简单/说明read me.txt" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\big.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/big.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\css\main.css" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/css/main.css" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\css\reset.css" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/css/reset.css" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\css\style.css" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/css/style.css" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\css\tooltip.css" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/css/tooltip.css" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\1.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/1.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\10.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/10.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\11.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/11.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\12.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/12.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\13.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/13.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\14.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/14.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\15.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/15.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\16.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/16.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\2.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/2.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\3.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/3.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\4.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/4.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\5.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/5.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\6.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/6.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\7.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/7.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\8.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/8.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\9.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/9.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\Image-free use.txt" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/Image-free use.txt" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\arrow_down.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/arrow_down.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\bg.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/bg.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\digg_32.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/digg_32.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\email_32.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/email_32.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\facebook_32.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/facebook_32.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\folder_photoshop.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/folder_photoshop.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\footer.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/footer.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\forward.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/forward.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\graphics.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/graphics.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\line.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/line.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\lines.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/lines.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\lines_dark.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/lines_dark.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\linkedin_32.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/linkedin_32.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\network_server.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/network_server.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\next.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/next.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\pause.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/pause.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\play.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/play.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\prev.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/prev.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\skype_32.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/skype_32.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\twitter_32.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/twitter_32.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\images\vimeo_32.png" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/images/vimeo_32.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\index.html" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/index.html" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\js\jquery.RotateImageMenu.js" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/js/jquery.RotateImageMenu.js" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\js\jquery.mousewheel.js" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/js/jquery.mousewheel.js" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\js\jquery.transform-0.9.3.min_.js" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/js/jquery.transform-0.9.3.min_.js" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\s.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/s.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\tooltip.js" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/tooltip.js" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\找网站模板就上【模板之家】cssMoban.com.url" afterPath="$PROJECT_DIR$/个人网站/模板/简单/找网站模板就上【模板之家】cssMoban.com.url" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\说明.txt" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/说明.txt" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\ftps_9\说明read me.txt" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/说明read me.txt" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\about.html" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/about.html" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\ad280.gif" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/ad280.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\copyright.html" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/copyright.html" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\games.html" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/games.html" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\Radio_classification.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/Radio_classification.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\Radio_classification_sele.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/Radio_classification_sele.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\Thumbs.db" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/Thumbs.db" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\about_03.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/about_03.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\about_06.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/about_06.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\about_08.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/about_08.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\about_08_sele.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/about_08_sele.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\about_11.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/about_11.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\about_11_sele.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/about_11_sele.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\about_dreanm_text.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/about_dreanm_text.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\airing_sele.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/airing_sele.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\army_sele.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/army_sele.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\blog_03.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/blog_03.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\cloud_02.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/cloud_02.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\cloud_05.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/cloud_05.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\cloud_07.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/cloud_07.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\cloud_10.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/cloud_10.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\cloud_12.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/cloud_12.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\cloud_15.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/cloud_15.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\cloud_17.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/cloud_17.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\cloud_20.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/cloud_20.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\cloud_21.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/cloud_21.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\cloud_drean.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/cloud_drean.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\cloud_drean_select.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/cloud_drean_select.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\cloud_play.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/cloud_play.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\contact_03.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/contact_03.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\cp_bg.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/cp_bg.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\fact_sele.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/fact_sele.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\factstore_sel.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/factstore_sel.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\foot_bg.JPG" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/foot_bg.JPG" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\game_03.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/game_03.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\game_menu.JPG" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/game_menu.JPG" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\game_menu_select.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/game_menu_select.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\geam_03.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/geam_03.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\geam_05.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/geam_05.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\geam_10.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/geam_10.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\geam_13.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/geam_13.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\geam_17.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/geam_17.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\gk_03.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/gk_03.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\gk_04.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/gk_04.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\hang_decorations.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/hang_decorations.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\hang_things.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/hang_things.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\job_03.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/job_03.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\job_06.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/job_06.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\job_09.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/job_09.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\lan.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/lan.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\linker_03.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/linker_03.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\linker_06.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/linker_06.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\logo.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/logo.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\main_bg.gif" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/main_bg.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\next9_ice.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/next9_ice.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\no1_cloud_text.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/no1_cloud_text.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\no1_line.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/no1_line.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\no1_seed.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/no1_seed.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\no2_dream_text.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/no2_dream_text.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\no2_line.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/no2_line.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\no2_seed.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/no2_seed.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\original_T.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/original_T.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\packer.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/packer.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\page_06.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/page_06.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\page_09.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/page_09.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\pro3_01.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/pro3_01.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\pro3_2.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/pro3_2.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\pro5_1.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/pro5_1.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\pro5_2.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/pro5_2.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\pro7_r.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/pro7_r.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\pro8_r.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/pro8_r.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\pro9_l.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/pro9_l.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\pro9_r.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/pro9_r.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\pro_2_05.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/pro_2_05.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\pro_l8.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/pro_l8.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\pro_r6.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/pro_r6.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\pro_r_02.png" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/pro_r_02.png" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\pro_side.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/pro_side.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\product_03.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/product_03.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\product_06.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/product_06.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\t.gif" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/t.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\team_03.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/team_03.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\team_04.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/team_04.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\team_1_03.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/team_1_03.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\team_1_04.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/team_1_04.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\top_bg.jpg" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/top_bg.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\yf_03.gif" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/yf_03.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\img\yf_04.gif" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/img/yf_04.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\index.html" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/index.html" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\job.html" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/job.html" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\js\Thumbs.db" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/js/Thumbs.db" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\style.css" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/style.css" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\t.html" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/t.html" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\team.html" afterPath="$PROJECT_DIR$/个人网站/模板/云朵工厂/team.html" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\手绘个人网站.txt" afterPath="$PROJECT_DIR$/Website/css/index.css" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\mstp_128_shouhui\找网站模板就上【模板之家】cssMoban.com.url" afterPath="$PROJECT_DIR$/个人网站/模板/灰色/找网站模板就上【模板之家】cssMoban.com.url" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\the-hobbit\default.css" afterPath="$PROJECT_DIR$/个人网站/模板/墨绿/default.css" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\the-hobbit\img\bg.jpg" afterPath="$PROJECT_DIR$/Website/img/bg.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\the-hobbit\img\bgcontainer.jpg" afterPath="$PROJECT_DIR$/个人网站/Personal Website/website-img/bgcontainer.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\the-hobbit\img\bgcontent.gif" afterPath="$PROJECT_DIR$/个人网站/Personal Website/website-img/bgcontent.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\the-hobbit\img\bgfooter.gif" afterPath="$PROJECT_DIR$/个人网站/Personal Website/website-img/bgfooter.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\the-hobbit\img\divider.gif" afterPath="$PROJECT_DIR$/个人网站/Personal Website/website-img/divider.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\the-hobbit\img\gfx.jpg" afterPath="$PROJECT_DIR$/个人网站/Personal Website/website-img/gfx.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\the-hobbit\img\header.jpg" afterPath="$PROJECT_DIR$/个人网站/Personal Website/website-img/header.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\the-hobbit\img\map.jpg" afterPath="$PROJECT_DIR$/个人网站/Personal Website/website-img/map.jpg" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\the-hobbit\img\pattern.gif" afterPath="$PROJECT_DIR$/个人网站/Personal Website/website-img/pattern.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\the-hobbit\img\quote.gif" afterPath="$PROJECT_DIR$/个人网站/Personal Website/website-img/quote.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\the-hobbit\img\stripes.gif" afterPath="$PROJECT_DIR$/个人网站/Personal Website/website-img/stripes.gif" />
-      <change type="MOVED" beforePath="E:\12万\fe2016\myfe2016\个人网站\模板\the-hobbit\index.html" afterPath="$PROJECT_DIR$/个人网站/模板/墨绿/index.html" />
     </list>
     <ignored path="myfe2016.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -423,48 +74,36 @@
     <favorites_list name="myfe2016" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requirejs/轮播图/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77837837">
-              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirejs/轮播图/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="carousel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirejs/轮播图/js/carousel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="carousel.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirejs/轮播图/css/carousel.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/requirejs/轮播图/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.048648648">
+                  <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Website/css/index.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -482,8 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/requirejs/弹出层/js/dialog.js" />
-        <option value="$PROJECT_DIR$/requirejs/轮播图/js/imgs.js" />
         <option value="$PROJECT_DIR$/requirejs/轮播图/css/imgs.css" />
         <option value="$PROJECT_DIR$/requirejs/轮播图/css/index.css" />
         <option value="$PROJECT_DIR$/css3/Olympic-rings.html" />
@@ -495,11 +132,9 @@
         <option value="$PROJECT_DIR$/整站开发/css/carousel.css" />
         <option value="$PROJECT_DIR$/整站开发/js/new.js" />
         <option value="$PROJECT_DIR$/整站开发/js/news.js" />
-        <option value="$PROJECT_DIR$/整站开发/js/carousel.js" />
         <option value="$PROJECT_DIR$/整站开发/js/wrapper.js" />
         <option value="$PROJECT_DIR$/整站开发/js/works.js" />
         <option value="$PROJECT_DIR$/整站开发/js/clients.js" />
-        <option value="$PROJECT_DIR$/整站开发/js/index.js" />
         <option value="$PROJECT_DIR$/整站开发/css/common.css" />
         <option value="$PROJECT_DIR$/整站开发/css/index.css" />
         <option value="$PROJECT_DIR$/个人网站/index.html" />
@@ -526,13 +161,17 @@
         <option value="$PROJECT_DIR$/个人网站/Personal Website/website-css/default.css" />
         <option value="$PROJECT_DIR$/个人网站/模板/墨绿/index.html" />
         <option value="$PROJECT_DIR$/个人网站/Personal Website/index.html" />
-        <option value="$PROJECT_DIR$/requirejs/轮播图/index.html" />
         <option value="$PROJECT_DIR$/Website/css/carousel.css" />
         <option value="$PROJECT_DIR$/整站开发/index.html" />
-        <option value="$PROJECT_DIR$/Website/css/common.css" />
-        <option value="$PROJECT_DIR$/Website/index.html" />
         <option value="$PROJECT_DIR$/requirejs/轮播图/js/index.js" />
         <option value="$PROJECT_DIR$/requirejs/轮播图/js/carousel.js" />
+        <option value="$PROJECT_DIR$/Website/css/common.css" />
+        <option value="$PROJECT_DIR$/Website/js/index.js" />
+        <option value="$PROJECT_DIR$/整站开发/js/carousel.js" />
+        <option value="$PROJECT_DIR$/整站开发/js/index.js" />
+        <option value="$PROJECT_DIR$/Website/index.html" />
+        <option value="$PROJECT_DIR$/Website/css/index.css" />
+        <option value="$PROJECT_DIR$/requirejs/轮播图/index.html" />
       </list>
     </option>
   </component>
@@ -588,33 +227,63 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="移动端Web开发" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="练习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfe2016-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfe2016-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="移动端Web开发" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfe2016-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -624,11 +293,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -642,11 +311,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -656,11 +325,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -674,29 +343,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -710,11 +361,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -724,11 +375,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -742,72 +393,22 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
+              <option name="myItemId" value="myfe2016-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="requirejs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="轮播图" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="requirejs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="轮播图" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myfe2016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="requirejs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="轮播图" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="react" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -822,11 +423,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\12万\fe2016\myfe2016-1\react" />
+      <recent name="E:\12万\fe2016\myfe2016-1\Website\img" />
+      <recent name="E:\12万\fe2016\myfe2016-1\Website\js" />
       <recent name="E:\12万\fe2016\myfe2016\Website\img" />
       <recent name="E:\12万\fe2016\myfe2016\Website\js" />
-      <recent name="E:\12万\fe2016\myfe2016\个人网站\Personal Website" />
-      <recent name="E:\12万\fe2016\myfe2016\个人网站\Personal Website\website-img" />
-      <recent name="E:\12万\fe2016\myfe2016" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\12万\fe2016\myfe2016\个人网站\Personal Website\website-css" />
@@ -1143,24 +744,24 @@
     <frame x="1" y="1" width="1364" height="726" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1624629" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2143917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3273906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3273906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1210,59 +811,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vue/vue2/node_modules/ms/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24489796">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/vue2/cart.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43243244">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/vue2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.2727273">
-          <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/vue22/node_modules/ms/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue/vue22/cart2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1818182">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/个人网站/模板/灰色/js/jquery.mousewheel.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/移动端Web开发/练习/index1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-56.727272">
-          <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/移动端Web开发/练习/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="10.090909">
-          <caret line="76" column="51" selection-start-line="76" selection-start-column="51" selection-end-line="76" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -1329,7 +881,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.4545455">
           <caret line="5" column="26" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1337,9 +888,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.2727275">
           <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
-          <folding>
-            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1347,7 +895,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.1818182">
           <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1355,7 +902,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1413,7 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1421,7 +966,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.043243244">
           <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1434,7 +978,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.5454545">
           <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1442,7 +985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="107" column="59" selection-start-line="107" selection-start-column="59" selection-end-line="107" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1450,7 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.636364">
           <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1458,15 +999,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Website/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1474,63 +1006,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/整站开发/css/carousel.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.36734694">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/整站开发/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="13.0">
-          <caret line="79" column="59" selection-start-line="79" selection-start-column="59" selection-end-line="79" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Website/css/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5102041">
-          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Website/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.272727">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Website/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirejs/轮播图/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/requirejs/轮播图/js/carousel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.85714287">
           <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirejs/轮播图/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46938777">
+          <caret line="17" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Website/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1538,6 +1034,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirejs/轮播图/css/carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20408164">
+          <caret line="5" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Website/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Website/img/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Website/js/carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/整站开发/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.7272725">
+          <caret line="72" column="11" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/整站开发/css/carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/整站开发/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.1632652">
+          <caret line="56" column="126" selection-start-line="56" selection-start-column="126" selection-end-line="56" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/整站开发/js/carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24489796">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1546,22 +1096,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirejs/轮播图/css/carousel.css">
+    <entry file="file://$PROJECT_DIR$/移动端Web开发/练习/index1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="2.0756757">
+          <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/移动端Web开发/练习/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.21621622">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Website/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74054056">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/requirejs/轮播图/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77837837">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.048648648">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react/react-15.3.1/build/react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Website/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
           <folding />
         </state>
       </provider>

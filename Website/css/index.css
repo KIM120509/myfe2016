@@ -1,0 +1,172 @@
+/*样式重置开始*/
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    border: 0;
+}
+/*样式重置结束*/
+/*html{*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+/*}*/
+body{
+    width: 100%;
+    height: 100%;
+}
+#container{
+    width: 100%;
+    height: 100%;
+    background: url("../img/bg.jpg") repeat 0 0;
+}
+.wrapper{
+    margin-left: 50px;
+    margin-right: 50px;
+
+    height: 100%;
+}
+/*nav开始*/
+.nav{
+    height: 50px;
+    padding-top: 20px;
+    background: #ff00ff;
+}
+.nav span{
+    display: block;
+    height: 30px;
+    width: 20%;
+    float: left;
+    text-align: center;
+    line-height: 30px;
+}
+.nav span a{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    color: #000;
+    font-size: 20px;
+}
+/*nav结束*/
+
+
+/*carousel开始*/
+#carousel{
+    width: 100%;
+    height: 500px;
+
+}
+.carousel-container{
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+.carousel-tab li,.carousel-arrow span{
+    width: 20px;
+    height: 20px;
+    float: left;
+    background: black;
+    color: white;
+    list-style: none;
+    margin-right: 5px;
+    text-align: center;
+    line-height: 20px;
+    cursor: pointer;
+}
+.carousel-tab {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+.carousel-img img{
+    display: none;
+    width: 100%;
+    height: 100%;
+}
+.carousel-img img.selected{
+    display: block;
+}
+li.selected{
+    background: orange;
+}
+li.circle{
+    border-radius: 50%;
+}
+.carousel-arrow{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+.carousel-arrow.center{
+    width: 100%;
+    height: 20px;
+    position: absolute;
+    top: 50%;
+    margin-top: -10px;
+    left: 0;
+}
+.carousel-arrow.center #prev{
+    float: left;
+}
+.carousel-arrow.center #next{
+    float: right;
+}
+/*carousel结束*/
+
+/*about开始*/
+#about{
+    width: 100%;
+    height: 500px;
+    background: #0000ff;
+}
+/*about结束*/
+
+
+/*yesterday开始*/
+#yesterday{
+    width: 100%;
+    height: 500px;
+    background: #00ff00;
+}
+/*yesterday结束*/
+
+/*today开始*/
+#today{
+    width: 100%;
+    height: 500px;
+    background: #ff0000;
+}
+/*today结束*/
+
+
+/*tomorrow开始*/
+#tomorrow{
+    width: 100%;
+    height: 500px;
+    background: #00ffff;
+}
+/*tomorrow结束*/
+
+
+/*manage开始*/
+#manage{
+    width: 100%;
+    height: 500px;
+    background: #ff00ff;
+}
+/*manage结束*/
+
+
+/*footer开始*/
+#footer{
+    width: 100%;
+    height: 100px;
+    background: #000;
+}
+/*footer结束*/
