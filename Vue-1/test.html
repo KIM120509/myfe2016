@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Vue-test</title>
+</head>
+<body>
+    <div id="div1">
+        <input type="text" v-model="msg"/>
+        {{msg}}
+        <button v-on:click="fn()">click</button>
+        <button v-on:click="sn()">click-2</button>
+    </div>
+    <script src="vue.js"></script>
+    <script>
+        new Vue({
+            el:"#div1",
+            data:{
+                msg:"aa"
+            },
+            methods:{//函数
+                fn:function(){
+                    alert("aaa");
+                },
+                sn:function(){
+                    console.log(even.target);
+                }
+            }
+
+        });
+
+
+    </script>
+</body>
+</html>

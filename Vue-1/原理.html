@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Vue-原理</title>
+</head>
+<body>
+    <div id="div1">
+        <input type="text" id="aa" v-model="hello"/>
+        <span id="bb">{{hello}}</span>
+    </div>
+    <script src="vue.js"></script>
+    <script>
+       var obj = {};
+        Object.defineProperty(obj,"hello",{
+            set:function(val){
+                document.getElementById("bb").innerHTML = val;
+                document.getElementById("aa").value = val;
+            }
+        })
+
+        document.getElementById("aa").onkeyup=function(e){
+            obj.hello = e.target.value;//键盘敲入的值
+        }
+        obj.hello = "word";//默认值
+    </script>
+</body>
+</html>

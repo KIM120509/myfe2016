@@ -1,0 +1,24 @@
+article{
+    width: 100%;
+    height: 200px;
+    /*background: #f00;*/
+}
+article span{
+    display: inline-block;
+    width: 100%;
+    height: 50px;
+    line-height:50px;
+    text-align: center;
+    font-size: 30px;
+    color: #0088cc;
+    cursor: pointer;
+}
+.kemi{
+    width: 100%;
+    height: 315px;
+}
+.operation_cont input{
+    width: 80px;
+    height: 40px;
+
+}
